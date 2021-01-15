@@ -64,4 +64,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## More Stuff
 Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.com/learning/instructors/justin-schwartzenberger?u=2125562). 
-You can also [follow me on twitter](https://twitter.com/schwarty).
+You can also [follow me on twitter](https://twitter.com/schwarty).# Angular-Movie-Project
