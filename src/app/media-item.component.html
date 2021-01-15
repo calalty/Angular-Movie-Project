@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container">
+<h2>{{ mediaItem.name }}</h2>
+
+<!-- <ng-template [ngIf]="mediaItem.watchedOn">
+    <div>Watched on: {{ mediaItem.watchedOn | date: 'short\Date'  }}</div>
+</ng-template> -->
+<div>{{ mediaItem.genre }}</div>
+<div>{{ mediaItem.year }}</div>
+<div class="tools">
+    <a (click)="onFave()"><i [fave]="mediaItem.isFave" class="fa fa-heart" style="font-size:25px;"></i></a>
+    <a class="delete" (click)="onDelete()">
+        remove
+      </a>
+    <a class="details">watch</a>
+</div>
+</div>
