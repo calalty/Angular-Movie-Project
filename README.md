@@ -67,3 +67,4 @@ Check out some of my [other courses on LinkedIn Learning](https://www.linkedin.c
 You can also [follow me on twitter](https://twitter.com/schwarty).# Angular-Movie-Project
 # Angular-Movie-Project
 # Angular-Movie-Project
+# Angular-Movie-Project
